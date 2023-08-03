@@ -4,7 +4,7 @@ from pages.form_page_find import FormPageFind
 from pages.form_page_images import FormPageImages
 
 YANDEX_URL = 'https://ya.ru/'
-IMAGES_URL = 'https://yandex.ru/images/'
+IMAGES_URL = 'https://ya.ru/images/'
 SEARCH_WORD = 'Тензор'
 SEARCH_URL = 'tensor.ru'
 
